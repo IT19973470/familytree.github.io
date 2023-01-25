@@ -2,11 +2,13 @@
   "members": [
     {
       "name": "Don Dawith Silva Hettiarachchi",
-      "death": "1945-11-03"
+      "death": "1945-11-03",
+      "imgW": 230
     },
     {
       "name": "Clara Wijesekera Abeynayake",
-      "death": "1938"
+      "death": "1938",
+      "imgW": 230
     }
   ],
   "children": [
